@@ -1,9 +1,18 @@
 body {
-    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-family: 'Montserrat-Light', Arial, Helvetica, sans-serif;
 }
 
 img {
     max-width: 90%;
+}
+
+h1 {
+ text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1em;
 }
 
 .row1 {
